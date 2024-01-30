@@ -2,9 +2,6 @@
 Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.
 
 
-### Beli versi terbaru nya di link berikut :  <a href="https://www.codekop.com/products/source-code-aplikasi-sistem-informasi-perpustakaan-berbasis-website-5.html" target="_blank">https://www.codekop.com/products/source-code-aplikasi-sistem-informasi-perpustakaan-berbasis-website-5.html</a>
-
-### * Untuk Reuploader Source Code tolong cantumin sumber juga ya, terima kasih :)
 
 ##  Framework
 * Codeigniter 3.1.11
